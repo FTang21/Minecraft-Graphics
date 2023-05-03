@@ -1,5 +1,8 @@
 
 # Minecraft
+
+### This was for a project in a Computer Graphics course. Please do not use this for your own assignment, I do not condone cheating. 
+
 Name: Franke Tang
 UTEID: ft4282
 
